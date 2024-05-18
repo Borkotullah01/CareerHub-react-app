@@ -1,0 +1,31 @@
+[
+    {
+        "id":1,
+        "logo":"https://i.ibb.co/PgXzGJ3/accounts-1.png",
+        "category_name":"Account & Finance",
+        "availability":"300 Jobs Available"
+
+    },
+    {
+        "id":2,
+        "logo":"https://i.ibb.co/0jYwpSm/chip-1.png",
+        "category_name":"Creative Design",
+        "availability":"100+ Jobs Available"
+
+    },
+    {
+        "id":3,
+        "logo":"https://i.ibb.co/tJ4D7CB/business-1.png",
+        "category_name":"Marketing & Sales",
+        "availability":"150 Jobs Available"
+
+    },
+    {
+        "id":4,
+        "logo":"https://i.ibb.co/mNL4G1J/social-media-1.png",
+        "category_name":"Engineering Job",
+        "availability":"224 Jobs Available"
+
+    }
+
+]
